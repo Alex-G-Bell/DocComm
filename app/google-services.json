@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "493634084545",
+    "firebase_url": "https://doccom-889b7.firebaseio.com",
+    "project_id": "doccom-889b7",
+    "storage_bucket": "doccom-889b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493634084545:android:a75da3f0b524435e",
+        "android_client_info": {
+          "package_name": "au.edu.uts.doccomm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493634084545-ljnqeetum89rng9p42ce189gkqsnnbl2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "au.edu.uts.doccomm",
+            "certificate_hash": "d7fc45a8aa498e8cc53f939ba7256457b9a4d4d9"
+          }
+        },
+        {
+          "client_id": "493634084545-lim0tb9c0so4qjch5vln3rroojffm0fc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "au.edu.uts.doccomm",
+            "certificate_hash": "51daff480d18ae9451d635342624eda9bc1504ac"
+          }
+        },
+        {
+          "client_id": "493634084545-lanjdjl76ndqfq5lntf0m73mqg6mtbps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATvYC2kmVR4U8FrU6iR3Wa-eVwjoaSDJ8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493634084545-lanjdjl76ndqfq5lntf0m73mqg6mtbps.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

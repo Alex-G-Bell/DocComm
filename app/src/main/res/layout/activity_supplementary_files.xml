@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="">
+
+
+    <Button
+        android:id="@+id/createFile"
+        android:layout_width="211dp"
+        android:layout_height="49dp"
+        android:text="Create Text File" />
+
+    <Button
+        android:id="@+id/viewFile"
+        android:layout_width="211dp"
+        android:layout_height="49dp"
+        android:text="Choose an Image" />
+
+
+
+
+</LinearLayout>
+
+    <ImageView
+        android:id="@+id/iv_image"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:layout_alignParentStart="true"
+        android:layout_centerVertical="true"
+        android:scaleType="fitCenter" />
+
+    <Button
+        android:id="@+id/upLoadImage"
+        android:layout_width="228dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="45dp"
+        android:layout_marginStart="79dp"
+        android:text="Upload Image" />
+
+
+    </RelativeLayout>

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">DocComm</string>
+
+
+    <string-array name="Gender">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Rather Not to Say</item>
+    </string-array>
+
+    <string name="GenderTitle">Gender</string>
+
+    <string name="default_text">--</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="title_activity_supplementary_files">SupplementaryFilesActivity</string>
+    <string name="todo">TODO</string>
+
+</resources>
